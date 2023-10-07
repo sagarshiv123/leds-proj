@@ -1,0 +1,457 @@
+.moddle-container {
+    background-color: #0f1e45;
+    padding: 10px 20px;
+
+}
+
+.heading-about {
+    color: white;
+
+}
+
+.topheading {
+    color: white;
+}
+
+
+.contact-icon {
+    color: #0f1e45;
+}
+
+.contact {
+    color: #07dbcb;
+    font-weight: 500;
+    margin-left: 10px;
+
+}
+
+.homes {
+    color: white;
+    font-weight: 500;
+}
+
+.heading-contact {
+    color: #0f1e45;
+    font-size: 30px;
+}
+
+.moddle-containers {
+    background-color: #f1f1f1;
+    padding: 20px 20px;
+}
+
+.call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.moddle-containerss {
+    height: 400px;
+    width: 100%;
+    border-top: 2px solid rgb(192, 192, 192);
+    border-left: 2px solid rgb(192, 192, 192);
+    background-color: rgba(250, 250, 250, 0.968);
+    margin-top: 60px;
+    margin-bottom: 60px;
+    box-shadow: 1px 2px 1px rgb(235, 233, 233);
+
+
+}
+
+.arrow {
+    color: white;
+}
+
+.card-img-top {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 0 160px;
+}
+
+.card {
+    height: 610px;
+    box-shadow: rgba(109, 107, 107, 0.16) 0px 1px 4px;
+    background-color: #d7d6e359;
+    /* border: 1px solid #07dbcb; */
+    /* border-top: 2px solid #0a0656; */
+
+}
+
+.card:hover {
+    height: 610px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.card-heading {
+    font-size: 16px;
+    font-weight: 700;
+    color: #0f1e45;
+    text-transform: uppercase;
+
+
+}
+
+.ts-service-box {
+    border: 1px solid rgb(204, 197, 197);
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+}
+
+/* networkpate */
+.logoss {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.logoss:hover {
+    border-radius: 4px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+/* award-card */
+
+.award-card {
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border: 1px solid #0a0656;
+    height: 326px;
+    background-color: #e5dede3d;
+}
+
+.award-image {
+    width: 380px;
+    height: 250px;
+    margin-left: -126px;
+    margin-top: 39px;
+    border-radius: 4px;
+}
+
+
+
+
+@media screen and (max-width:768px) {
+    .award-image {
+        width: 380px;
+        height: 280px;
+        margin-left: -126px;
+        margin-top: 80px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1024px) {
+    .award-image {
+
+        width: 300px;
+        height: 223px;
+        margin-left: -95px;
+        margin-top: 54px;
+
+    }
+}
+
+@media screen and (max-width:425px) {
+    .award-image {
+
+        width: 300px;
+        height: 223px;
+        margin-left: 45px;
+        margin-top: -938px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .award-card {
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        border: 1px solid #0a0656;
+        height: 335px;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .award-para {
+
+        padding-right: 33px;
+
+    }
+}
+
+@media screen and (max-width:425px) {
+    .award-card {
+
+        margin-top: 160px;
+        height: 380px;
+
+    }
+}
+
+@media screen and (max-width:425px) {
+    .award-head {
+
+        margin-top: 50px;
+        /* height: 380px; */
+
+    }
+}
+
+@media screen and (max-width:375px) {
+    .award-image {
+
+        width: 300px;
+        height: 180px;
+        margin-left: 22px;
+        margin-top: -850px;
+    }
+}
+
+
+
+@media screen and (max-width:375px) {
+    .award-card {
+
+        margin-top: 150px;
+        height: 346px;
+
+    }
+}
+
+@media screen and (max-width:375px) {
+    .award-head {
+
+        margin-top: 20px;
+        /* height: 380px; */
+
+    }
+}
+
+@media screen and (max-width:320px) {
+    .award-image {
+
+        width: 240px;
+        height: 165px;
+        margin-left: 25px;
+        margin-top: -1020px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .award-card {
+
+        /* margin-top:150px; */
+        height: 430px;
+
+    }
+}
+
+@media screen and (max-width:320px) {
+    .award-head {
+
+        margin-top: 15px;
+        /* height: 380px; */
+
+    }
+}
+
+
+
+/* ourteam */
+.ts-service-box {
+    height: 520px;
+
+}
+
+@media screen and (max-width:320px) {
+    .scrollbar {
+
+        overflow-x: none;
+
+    }
+}
+
+.scrollbar {
+    height: 170px;
+    width: 100%;
+    overflow-y: scroll;
+
+}
+
+.force-overflow {
+    min-height: 260px;
+}
+
+
+#style-2::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: px;
+    background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #3bddd0fc;
+}
+
+
+.hhhh {
+    color: red;
+}
+
+.logosss {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.logosss:hover {
+    border-radius: 4px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.image-box {
+    background-color: #F5F5F5;
+}
+
+
+.card-dashed {
+    border: 1px dashed #0a0656;
+    padding: 10px 0 10px 0;
+    margin-top: 25px;
+    background-color: rgb(252, 250, 250);
+}
+
+.card-dashed:hover {
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px dashed #0a0656;
+    padding: 10px 0 10px 0;
+    margin-top: 25px;
+    background-color: rgb(252, 250, 250);
+}
+
+.pop-image {
+
+    background-color: #0f1e45;
+    margin-bottom: 20px;
+
+}
+
+.svg-icon {
+
+    color: #07dbcb;
+
+}
+
+
+.modal-content {
+    width: 700px;
+
+
+}
+
+.top-buttons {
+    border-color: #f4f8f8;
+    border: none;
+    color: black;
+    float: right;
+    margin-top: -25px;
+    padding: 0 6px;
+}
+
+
+.meadia-button {
+    border-color: #07dbcb;
+    float: right;
+    margin-top: -25px;
+    border-radius: 4px;
+    color: #07dbcb;
+    padding: 0 6px;
+}
+
+@media (max-width:425px) {
+    .area-image {
+        order: 3;
+    }
+
+}
+
+.fcd-information {
+    background-color: #F5F5F5;
+}
+
+
+
+@media (max-width:425px) {
+    .oreders {
+        order: 2;
+    }
+
+}
+
+@media (max-width:425px) {
+    .oreder-image {
+        order: 1;
+    }
+
+}
+
+.active-navigation {
+
+
+    background-color: #0f1e45 !important;
+    color: #fff !important;
+}
+
+a.active-nav {
+
+    color: #ffffff;
+}
+
+/* 15/2/new led */
+
+/* header */
+
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 0;
+
+}
+
+.fa-search {
+    color: #0f1e45;
+}
+
+.footer-para {
+    margin-top: -14px;
+}
